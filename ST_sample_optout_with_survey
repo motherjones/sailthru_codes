@@ -1,0 +1,324 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width,initial-scale=1.0">
+ 
+{******Zephyr Style and Content Settings****}
+{*TEXT and IMAGES*}
+{page_title = "Preference Center"}
+{brand = "Some Awesome Brand"}
+{logoAltTag = "Some Awesome Brand"}
+{logoImageUrl = "https://email-media.s3.amazonaws.com/Sailthru/default/images/Sailthru_Logo_v_pos_k.png"}
+{faviconUrl = "https://email-media.s3.amazonaws.com/Sailthru/default/images/sailthru_icons_product_Full%20Control.png"}
+{form_intro_email = "Your email address: " + h(email)}
+{form_intro_text = ""}
+{buttonText = "Submit"}
+
+{*COLORS & STYLES*}
+{border_style = "double"} {*"none", "solid", or "double"*}
+{border_thickness = "15px"} {*use ##px format or ##% format*}
+{borderColor = "#000000"} 
+{fontColor = "#000000"}
+
+{*BUTTON COLORS & STYLES*}
+{button_static_background = "#000"}
+{button_static_border = "#FFF"}
+{button_static_font_color = "#FFF"}
+{button_hover_background = "#FFF"} {*can also be set to "transparent*}
+{button_hover_border = "#000"}
+{button_hover_font_color = "#000"}
+{border_radius = "5px"} {*increase for more rounded corners*}
+
+{*SET DATA TYPE FOR SURVEY VARS*}
+{var_data_type = "boolean"} {*set the data type for vars to "string", "int" or "boolean"*}
+{var_value = true} {*set var value; true/false for boolean; 1/0 for 'int' or 'num' *}
+
+{*RADIO BUTTONS VARS*}
+{radio_vars_title = "Please tell us why you're unsubscribing:"}
+{radio_vars_text = ""}
+{radios_var_name = "optout_reason"}
+{radio_button_values = [{"var_value":"no_longer","display_value":"I no longer want to receive these emails"},{"var_value":"never_signed","display_value":"I never signed up for this mailing list"},{"var_value":"inappropriate","display_value":"The emails are inappropriate"},{"var_value":"spam","display_value":"The emails are spam and should be reported"},{"var_value":"too_many","display_value":"Too many emails"}]}
+
+{*FONTS*} 
+<link href="https://fonts.googleapis.com/css?family=Montserrat|Open+Sans|Lato" rel="stylesheet">
+{font1 = "'Open Sans', sans-serif"}
+{font1 = "'Lato', sans-serif"}
+
+<link rel="shortcut icon" type="image/png" href="{faviconUrl}"/>
+<title>{brand} {page_title}</title>
+
+<style>
+
+body {
+  font-family: {font1};
+  color:{fontColor};
+ }
+
+#wrapper {
+  font-family: {font1};
+  width: 60%;
+  margin: 0 auto;
+}
+
+#logo {
+  color: {fontColor};
+  border-bottom: {border_thickness} {border_style} {borderColor};
+  text-align: center;
+}
+
+.logo  {
+  width: 50%;
+  margin: 3%;
+}
+
+#content {
+  font-family: {font1};
+  margin: 1% auto;
+  text-align: center;
+}
+
+.checkboxes {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.optoutMessage {
+  text-align: center;    
+}
+
+/*fixes IE blue border issue*/
+a {
+  color: #4989F1;
+  text-decoration: none;
+  border: 0px
+}
+
+a img {
+  text-decoration: none;
+  border: 0px;
+  outline: none;
+}
+
+label {
+  cursor: pointer;
+}
+
+
+ul {
+  margin: 0% 15% 0% 20%;
+}
+
+li {
+  list-style: none;
+  text-align: left;
+  padding: 1%;
+}
+
+input.checkbox {
+  margin-right: 3%;
+}
+
+.description {
+  display: block;
+  margin: 2% 1%;
+}
+ 
+.newsletter_name {
+  font-weight: {newsletter_name_weight};
+  font-size: {newsletter_name_size}%;
+}
+
+form {
+  margin: 0 auto;
+  text-align: center;
+}
+
+p.note {
+  margin: 3% 0% 3% 0%;
+}
+
+input.checkbox {
+  margin-right: 3%;
+}
+
+select { 
+  width: 23%;
+  height: 35px;
+  font-size: 1em;
+  text-align: center;
+  background-color: #fff;
+  border: solid 1px #7c7c7c;
+  margin: 1% 1%;
+}
+
+.date {
+  display: block;
+  font-size: 110%;
+  margin: 0 auto;
+  padding: 1%;
+  text-align: center;
+}
+
+.optoutMessage {
+  color: red;
+}
+
+{*removing so buttons are same size*}
+/*.unsub {*/
+/*  width: 75%;*/
+/*  margin: 0 auto;*/
+/*}*/
+
+
+/* Button Styles */
+input.btn, a.btn {
+  border: none;
+  font-family:Helvetica-Bold, Helvetica, Arial, sans-serif;
+  font-size: 80%;
+  cursor: pointer;
+  padding: 3% 5%;
+  display: inline-block;
+  margin: 3%;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-weight: 600;
+  outline: none;
+  position: relative;
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  transition: all 0.5s;
+  background: {button_static_background};
+  border: 2px solid {button_static_border};
+  border-radius: {border_radius};
+  color: {button_static_font_color};
+  -webkit-appearance: none;
+}
+
+input.btn:hover, a.btn:hover {
+  background: {button_hover_background};
+  border: 2px solid {button_hover_border};
+  color: {button_hover_font_color};
+}
+
+
+/* Media queries for smaller screens */
+@media screen and (max-width: 1024px) {
+  #wrapper {
+    width: 75%;
+    margin: 0 auto;
+  }
+}
+
+@media screen and (max-width: 860px) {
+
+}
+
+@media screen and (max-width: 768px) {
+  #wrapper {
+    width: 100%;
+    margin: 0 auto;
+  }
+  #content {
+    width: 80%;
+  }
+  ul {
+    margin: 0% 5% 0% 5%;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  #wrapper {
+    width: 100%;
+    margin: 0 auto;
+  }
+  #content {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  #wrapper {
+    width: 100%;
+    margin: 0 auto;
+  }
+  #content {
+    width: 100%;
+    float: left;
+  }
+  ul {
+    margin: 1%;
+    padding: 1%;
+  }
+  li {
+   margin: 0%;
+  }
+  img.logo {
+    width: 200px;
+  }
+  select {
+  width: 50%;
+  height: 25px;
+}
+  .unsub {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  #wrapper {
+    width: 100%;
+    margin: 0 auto;
+  }
+  #content {
+    width: 100%;
+    float: left;
+  }
+  input.btn {
+  font-size: 50%;
+  }
+  img.logo {
+    width: 200px;
+  }
+}
+
+</style>
+</head>
+
+<body>
+  <div id="wrapper">
+    <div id="header">
+        <div id="logo">
+              <img class="logo" src="{logoImageUrl}" alt="{logoAltTag}">
+        </div>
+    </div> <!-- end header -->
+
+<div id="content">
+  
+
+      <p class="note">{form_intro_email?: ''}</p>
+      <p class="note">{form_intro_text?: ''}</p>
+
+      <div class="checkboxes">
+        <form method="post">
+
+        <span><h3>{radio_vars_title?: ''}</h3></span>
+        <p class="note">{radio_vars_text?: ''}</p>
+        <ul>
+        {checked_var = "checked"}
+          {foreach radio_button_values as i,c} 
+            <li class="list">
+            <label><input type="radio" class="checkbox" name="vars[{radios_var_name}]" value="{c.var_value}" {if i<1} checked {/if} />{c.display_value}</label> 
+            </li>
+          {/foreach}
+        </ul>
+
+
+          <input type="submit" value="{buttonText}" class="btn" />
+      </form>
+    </div> <!--END checkboxes-->
+
+
+       </div><!--END content-->
+    </div> <!-- END wrapper -->
+  </body>
+</html>
