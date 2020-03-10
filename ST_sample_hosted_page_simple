@@ -1,1 +1,72 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+</head>
+<body>
+	<div id="wrapper">
+    <div id="header">
+        <div id="logo">
+              <img class="logo" src="{logoImageUrl}" alt="{logoAltTag}">
+        </div>
+    </div> <!-- end header -->
+		<p>This is a hosted page on Sailthru. Today's date is {date('MMMM dd, yyyy',time("now"))}</p>
+		<p>Your email address is: {profile.email}</p>
+		<p>Some weird thing goes here: {md5(profile.email)}</p>
+		<p>Other weird thing goes here: {sha256(profile.email)}</p>
+		<p>Your total amount of donations to date: ${{profile.vars.amount}}</p>
+		<p>You are subscribed to the following lists:</p>
+		<ol>
+		{foreach profile.lists as list}
+		<li>{list}</li>
+		{/foreach}
+		</ol>
+		<p>You entered our system on {date("yyyy-M-dd", profile.signup_time)}</p>
+		{daysSignUpLogin = (time("now") - time(profile.signup_time))/86400}
+{daysInSystem = int(abs(daysSignUpLogin))}
+	{formatDate = date("D")}
+		<p>You have been in our system for {formatDate} days</p>
+		
+		{currentYear = date('yyyy')}
+{christmasTime = (time("December 25, +currentYear+ 00:00:00") - time("now"))/86400}
+  {if christmasTime < 1 && christmasTime > 0}
+{christmasCountdown = 1}
+    {else}
+{christmasCountdown = int(christmasTime)}
+{/if}
+{if christmasCountdown > 0}
+<p>There are {christmasCountdown} days left until Christmas!</p>
+{/if}
 
+
+{suffixes = ["th", "st", "nd", "rd", "th", "th", "th", "th", "th", "th","th", "th", "th", "th", "th", "th", "th", "th", "th", "th","th", "st", "nd", "rd", "th", "th", "th", "th", "th", "th", "th", "st"]}
+{month = date('MMMM')}
+{day = date('d')}
+{suffix = suffixes[int(day)]}
+{ordDate = month + " " + day + suffix}
+<p>Today is {ordDate}!</p>
+<p>How often do you want to receive the Simian newsletter?</p> 
+<form method="post">
+   <label><input type="radio" name="listgroup[A]" value="DailySimian" />Every day</label> 
+   <label><input type="radio" name="listgroup[A]" value="WeeklySimian"/>Once a week</label> 
+   <label><input type="radio" name="listgroup[A]" value="" />Do not send me the Simian newsletter</label>  
+</form> 
+
+<p>How often do you want to receive the ProSimian newsletter?</p> 
+<form method="post">
+   <label><input type="radio" name="listgroup[B]" value="DailyProSimian" /> Every day</label> 
+   <label><input type="radio" name="listgroup[B]" value="WeeklyProSimian"/>Once a week</label> 
+   <label><input type="radio" name="listgroup[B]" value="" />Do not send me the ProSimian newsletter</label>
+</form>
+
+{if profile.optout=="basic" || profile.optout=="all" || profile.optout=="blast"}
+  <div class="optoutMessage">
+    <p class="note">{opt_back_in_text}</p>
+  </div>
+{/if}
+{buttonText="Press Me"}
+<form method="post">
+	
+	<input type="submit" value="{buttonText}" class="btn" />
+</form>
+	</div>
+</body>
