@@ -1,0 +1,438 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width,initial-scale=1.0">
+ 
+{******Zephyr Style and Content Settings****}
+{*TEXT and IMAGES*}
+{page_title = "Preference Center"}
+{brand = "Some Awesome Brand"}
+{logoAltTag = "Some Awesome Brand"}
+{logoImageUrl = "https://email-media.s3.amazonaws.com/Sailthru/default/images/Sailthru_Logo_v_pos_k.png"}
+{faviconUrl = "https://email-media.s3.amazonaws.com/Sailthru/default/images/sailthru_icons_product_Full%20Control.png"}
+{form_intro_email = "Your email address: " + h(email)}
+{form_intro_text = "Use the form below to manage your email preferences."}
+{submit_button_text = "Update"}
+
+{*COLORS & STYLES*}
+{border_style = "double"} {*"none", "solid", or "double"*}
+{border_thickness = "15px"} {*use ##px format or ##% format*}
+{borderColor = "#000000"} 
+{fontColor = "#000000"}
+
+{*BUTTON COLORS & STYLES*}
+{button_static_background = "#000"}
+{button_static_border = "#FFF"}
+{button_static_font_color = "#FFF"}
+{button_hover_background = "#FFF"} {*can also be set to "transparent*}
+{button_hover_border = "#000"}
+{button_hover_font_color = "#000"}
+{border_radius = "5px"} {*increase for more rounded corners*}
+
+{*PAGE SECTIONS -- DISPLAY or TURN OFF*}
+{optout_only = false} {*set this to true and below sections to false if you want to ONLY include the optout button*}
+{show_radios = true} {*set to true to show the radio button section; false, null or 0 to collapse it*}
+{show_dropdown = true}
+{show_datepicker = true} {*set to true to show the radio button section; false, null or 0 to collapse it*}
+{show_checkboxes = true} {*set to true to show list/var checkboxes; false, null or 0 to collapse it*}
+{list_type = "lists"} {*default is Natural lists, but can be set to "vars" for smart lists*}
+
+{*LIST or VAR NAMES FOR CHECKBOXES*}
+{newsletters_title = "Newsletters:"}
+{newsletters_text = "Test out some newsletter text here"}
+{lists_array = [{"list_name":"default_prefs_list1","display_name":"Awesomesauce","description":"This is a description for the Awesomesauce newsletter. It is awesome."},{"list_name":"default_prefs_list2","display_name":"Best Content Ever","description":"This newsletter provides the best content EVER!"},{"list_name":"default_prefs_list3","display_name":"Content Content Content","description":"In this newslette, we offer the same great low price, but thrice the amount of content."}]}
+{show_description = false}
+
+{*if using vars for checkboxes, choose the value and data type*}
+{if list_type == "vars"}
+  {var_data_type = "boolean"} {*set the data type for vars to "string", "int" or "boolean"*}
+  {var_value = true} {*set var value; true/false for boolean; 1/0 for 'int' or 'num' *}
+{/if}
+
+{*RADIO BUTTONS VARS*}
+{radio_vars_title = "Email Frequency:"}
+{radio_vars_text = "Test out some variables text here"}
+{radios_var_name = "frequency"}
+{radio_button_values = [{"var_value":"daily","display_value":"Everyday"},{"var_value":"weekly","display_value":"Once a week"},{"var_value":"monthly","display_value":"Once a month"}]}
+
+{*DROPDOWN VARS*}
+{dropdown_vars_title = "Gender:"}
+{dropdown_vars_text = "Tell us your gender so we can provide better recommendations (optional)"}
+{dropdown_var_name = "gender"}
+{dropdown_var_values = [{"var_value":"female","display_value":"Female"},{"var_value":"male","display_value":"Male"},{"var_value":"prefer_not_to_say","display_value":"Prefer not to say"}]}
+
+{*DATE PICKER INFO*}
+{datepicker_title = "Birthday:"} {*other examples: wedding date, anniversary date, due date, etc...*}
+{datepicker_text = "Enter or edit your birthday"} 
+{date_var = "birthday_date"} {*set the name of the date var; make sure it ends in _date*}
+
+{*OPTOUT TEXT AND TYPE*}
+{optout_button_text = "Unsubscribe"}
+{optout_text = 'If you wish to prevent all marketing emails from ' + brand + ', please click the ' +optout_button_text+ ' button below.'}
+{optout_status = "basic"}
+
+{*OPT BACK IN TEXT*}
+{opt_back_in_text = "You are currently unsubscribed from " +brand+ " newsletters. Please opt back in below."}
+{optin_button_text = "Opt Back In"}
+
+{*FONTS*} 
+<link href="https://fonts.googleapis.com/css?family=Montserrat|Open+Sans|Lato" rel="stylesheet">
+{font1 = "'Open Sans', sans-serif"}
+{font1 = "'Lato', sans-serif"}
+
+<link rel="shortcut icon" type="image/png" href="{faviconUrl}"/>
+<title>{brand} {page_title}</title>
+
+<style>
+
+body {
+  font-family: {font1};
+  color:{fontColor};
+ }
+
+#wrapper {
+  font-family: {font1};
+  width: 60%;
+  margin: 0 auto;
+}
+
+#logo {
+  color: {fontColor};
+  border-bottom: {border_thickness} {border_style} {borderColor};
+  text-align: center;
+}
+
+.logo  {
+  width: 50%;
+  margin: 3%;
+}
+
+#content {
+  font-family: {font1};
+  margin: 1% auto;
+  text-align: center;
+}
+
+.checkboxes {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.optoutMessage {
+  text-align: center;    
+}
+
+/*fixes IE blue border issue*/
+a {
+  color: #4989F1;
+  text-decoration: none;
+  border: 0px
+}
+
+a img {
+  text-decoration: none;
+  border: 0px;
+  outline: none;
+}
+
+label {
+  cursor: pointer;
+}
+
+{if show_description == true}
+  {margin_val = 15}
+  {newsletter_name_weight = 900}
+  {newsletter_name_size = 110}
+{else}
+  {margin_val = 30}
+  {newsletter_name_weight = 500}
+  {newsletter_name_size = 100}
+{/if}
+
+ul {
+  margin: 0% 15% 0% {margin_val}%;
+}
+
+li {
+  list-style: none;
+  text-align: left;
+  padding: 1%;
+  margin-left: 3%;
+}
+
+input.checkbox {
+  margin-right: 3%;
+}
+
+.description {
+  display: block;
+  margin: 2% 1%;
+}
+ 
+.newsletter_name {
+  font-weight: {newsletter_name_weight};
+  font-size: {newsletter_name_size}%;
+}
+
+form {
+  margin: 0 auto;
+  text-align: center;
+}
+
+p.note {
+  margin: 3% 0% 3% 0%;
+}
+
+input.checkbox {
+  margin-right: 3%;
+}
+
+select { 
+  width: 23%;
+  height: 35px;
+  font-size: 1em;
+  text-align: center;
+  background-color: #fff;
+  border: solid 1px #7c7c7c;
+  margin: 1% 1%;
+}
+
+.date {
+  display: block;
+  font-size: 110%;
+  margin: 0 auto;
+  padding: 1%;
+  text-align: center;
+}
+
+.optoutMessage {
+  color: red;
+}
+
+{*removing so buttons are same size*}
+/*.unsub {*/
+/*  width: 75%;*/
+/*  margin: 0 auto;*/
+/*}*/
+
+
+/* Button Styles */
+input.btn, a.btn {
+  border: none;
+  font-family:Helvetica-Bold, Helvetica, Arial, sans-serif;
+  font-size: 80%;
+  cursor: pointer;
+  padding: 3% 5%;
+  display: inline-block;
+  margin: 3%;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-weight: 600;
+  outline: none;
+  position: relative;
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  transition: all 0.5s;
+  background: {button_static_background};
+  border: 2px solid {button_static_border};
+  border-radius: {border_radius};
+  color: {button_static_font_color};
+  -webkit-appearance: none;
+}
+
+input.btn:hover, a.btn:hover {
+  background: {button_hover_background};
+  border: 2px solid {button_hover_border};
+  color: {button_hover_font_color};
+}
+
+
+/* Media queries for smaller screens */
+@media screen and (max-width: 1024px) {
+  #wrapper {
+    width: 75%;
+    margin: 0 auto;
+  }
+}
+
+@media screen and (max-width: 860px) {
+
+}
+
+@media screen and (max-width: 768px) {
+  #wrapper {
+    width: 100%;
+    margin: 0 auto;
+  }
+  #content {
+    width: 80%;
+  }
+  ul {
+    margin: 0% 5% 0% 5%;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  #wrapper {
+    width: 100%;
+    margin: 0 auto;
+  }
+  #content {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  #wrapper {
+    width: 100%;
+    margin: 0 auto;
+  }
+  #content {
+    width: 100%;
+    float: left;
+  }
+  ul {
+    margin: 1%;
+    padding: 1%;
+  }
+  li {
+   margin: 0%;
+  }
+  img.logo {
+    width: 200px;
+  }
+  select {
+  width: 50%;
+  height: 25px;
+}
+  .unsub {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  #wrapper {
+    width: 100%;
+    margin: 0 auto;
+  }
+  #content {
+    width: 100%;
+    float: left;
+  }
+  input.btn {
+  font-size: 50%;
+  }
+  img.logo {
+    width: 200px;
+  }
+}
+
+</style>
+</head>
+
+<body>
+  <div id="wrapper">
+    <div id="header">
+        <div id="logo">
+              <img class="logo" src="{logoImageUrl}" alt="{logoAltTag}">
+        </div>
+    </div> <!-- end header -->
+
+<div id="content">
+  
+{if profile.optout=="basic" || profile.optout=="all" || profile.optout=="blast"}
+  <div class="optoutMessage">
+    <p class="note">{opt_back_in_text}</p>
+  </div>
+{/if}
+
+{*optout only conditional*}
+{if optout_only != true}
+
+      <p class="note">{form_intro_email?: ''}</p>
+      <p class="note">{form_intro_text?: ''}</p>
+
+      <div class="checkboxes">
+        <form method="post" data-autofill="true" >
+
+  {if show_checkboxes == true || show_checkboxes == "true"}
+        <span><h3>{newsletters_title?: ''}</h3></span>
+          <p class="note">{newsletters_text?: ''}</p>
+           <ul>
+        {foreach lists_array as i,c}           
+           <li class="list"> <label class="checkbox_label"><input type="checkbox" class="checkbox" name="{list_type}[{c.list_name}]" data-type="{var_data_type?: ''}" value="{var_value?: ''}" /><span class="newsletter_name">{c.display_name}</span>
+            {if show_description == true && length(lists_array[0].description) > 1}
+               <span class="description">{c.description} </span>
+            {/if}
+            </label>
+           </li>
+        {/foreach}
+          </ul>
+  {/if}
+
+  {if show_radios == true || show_radios == "true"}
+        <span><h3>{radio_vars_title?: ''}</h3></span>
+        <p class="note">{radio_vars_text?: ''}</p>
+        <ul>
+          {foreach radio_button_values as c} 
+            <li class="list"> 
+            <label><input type="radio" class="checkbox" name="vars[{radios_var_name}]" value="{c.var_value}" />{c.display_value}</label> 
+            </li>
+          {/foreach}
+        </ul>
+  {/if}
+ 
+  {if show_dropdown == true || show_dropdown == "true"}
+     <span><h3>{dropdown_vars_title?: ''}</h3></span>
+     <p class="note">{dropdown_vars_text?: ''}</p>
+     <select name="vars[{dropdown_var_name}]">
+       {foreach dropdown_var_values as c}
+         <option value="{c.var_value}">{c.display_value}</option>
+       {/foreach}
+     </select>
+  {/if} 
+  
+  {if show_datepicker == true || show_datepicker == "true"}
+        <span><h3>{datepicker_title?: ''}</h3></span>
+        <p class="note">{datepicker_text?: ''}</p>
+        <input type="date" class="date" name="vars[{date_var}]" >
+  {/if}
+        
+        {* conditional for button text for unsubs vs. current subs *}
+        {if profile.optout=="basic" || profile.optout=="all" || profile.optout=="blast" }
+          {buttonText = optin_button_text}
+        {else}
+           {buttonText = submit_button_text}
+        {/if}
+
+          <input type="submit" value="{buttonText}" class="btn" />
+      </form>
+    </div> <!--END checkboxes-->
+{/if}
+{*end optout only conditional*}
+
+{if !profile.optout}
+        <div class="unsub">
+            <p class="note">{optout_text}</p>
+          
+            <form method="post">
+                <input type="hidden" name=".optout_{optout_status}" value="1" />
+                <input type="submit" value="{optout_button_text}" class="btn" />
+            </form>
+        </div> <!--END unsub-->
+
+{/if}
+
+{*show opt back in option for optout_only users*}
+{if optout_only == true && profile.optout=="basic" || profile.optout=="all" || profile.optout=="blast"}
+      <div class="unsub">
+        <form method="post">
+            <input type="submit" value="{optin_button_text}" class="btn" />
+        </form>
+    </div> <!--END unsub-->
+{/if}
+
+       </div><!--END content-->
+    </div> <!-- END wrapper -->
+  </body>
+</html>
