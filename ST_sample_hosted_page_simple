@@ -21,9 +21,10 @@
 		{/foreach}
 		</ol>
 		<p>You entered our system on {date("yyyy-M-dd", profile.signup_time)}</p>
-		{daysSignUpLogin = (time("now") - time(profile.signup_time))/86400}
-{daysInSystem = int(abs(daysSignUpLogin))}
-	{formatDate = date("D")}
+		{thisDay = int(time("now"))}
+		{signUpDay = int(time(profile.signup_time))}
+		{daysInSystem = (thisDay - profile.signup_time)/86400}
+		{formatDate = int(daysInSystem)}
 		<p>You have been in our system for {formatDate} days</p>
 		
 		{currentYear = date('yyyy')}
