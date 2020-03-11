@@ -14,7 +14,7 @@
 			</tr>
 				{foreach content as c}
 					<tr>
-						<td style="width:40%">
+						<td>
 						{if c.image}
 						<img src="{c.image}" style="max-width:250px;" />
 						{/if}
