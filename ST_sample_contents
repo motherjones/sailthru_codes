@@ -1,0 +1,5 @@
+{*This code will loop through our contents in order*}
+<p>Your top stories for today!</p>
+		{foreach content as item}
+<a href="{item.url}">{item.title}</a>
+{/foreach}
