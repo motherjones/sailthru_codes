@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>{content[0].title</title>
+		<meta charset="UTF-8">
+	</head>
+	<body>
+		<table width="640" align="center">
+			<tr>
+				<td><h1>This is an example template</h1></td>
+			</tr>
+			<tr>
+				<h3>Here's your stuff</h3>
+			</tr>
+				{foreach content as c}
+					<tr>
+						<td style="width:40%">
+						{if c.image}
+						<img src="{c.image}" style="max-width:250px;" />
+						{/if}
+						<br>
+						<a href="{c.url}">{c.title}</a></td>
+					</tr>
+					<tr>
+						<td>
+						{c.description}<a href="{c.url}">Read more</a>
+					</td>
+					</tr>
+				{/foreach}
+		</table>
+		<p><small>If you believe this has been sent to you in error, please safely <a href="{optout_confirm_url}">unsubscribe</a>.</small></p>
+		<img src="{beacon_src}" style="max-width:640px;width:500px;" />
+</body>
+</html>
