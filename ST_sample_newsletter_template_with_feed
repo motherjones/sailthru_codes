@@ -5,21 +5,20 @@
 		<meta charset="UTF-8">
 	</head>
 	<body>
+		{include "mojo_logo_header"}
 		<table width="640" align="center">
 			<tr>
-				<td><h1>This is an example template</h1></td>
-			</tr>
-			<tr>
-				<h3>Here's your stuff</h3>
+				<h3>Hello {name}, here's your stuff</h3>
 			</tr>
 				{foreach content as c}
 					<tr>
-						<td>
+						<td align="center">
 						{if c.image}
 						<img src="{c.image}" style="max-width:250px;" />
 						{/if}
 						<br>
-						<a href="{c.url}">{c.title}</a></td>
+						<a href="{c.url}" style="font-weight:bold;">{c.title}</a>
+						</td>
 					</tr>
 					<tr>
 						<td>
@@ -28,7 +27,11 @@
 					</tr>
 				{/foreach}
 		</table>
-		<p><small>If you believe this has been sent to you in error, please safely <a href="{optout_confirm_url}">unsubscribe</a>.</small></p>
-		<img src="{beacon_src}" style="max-width:640px;width:500px;" />
+		<table width="640" align="center">
+			<tr>
+				<td align="center" style="text-aling:center;"><p><small>If you believe this has been sent to you in error, please safely <a href="{optout_confirm_url}">unsubscribe</a>.</small></p></td>
+			</tr>
+		</table>
+		{include "mojo_newsletter_footer"}
 </body>
 </html>
