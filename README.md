@@ -1,3 +1,4 @@
-# sailthru_codes
-## From Sailthru sandbox, example code.
-### Example files from Sailthru's sandbox.
+# Sailthru Examples (Miscellany)
+## Example files from Sailthru's sandbox.
+## Template backups
+## Sample Zephyr codes
