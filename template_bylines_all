@@ -1,0 +1,874 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional //EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+
+<head>
+	<!--[if gte mso 9]><xml><o:OfficeDocumentSettings><o:AllowPNG/><o:PixelsPerInch>96</o:PixelsPerInch></o:OfficeDocumentSettings></xml><![endif]-->
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name="viewport" content="width=device-width">
+	<!--[if !mso]><!-->
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<!--<![endif]-->
+	<title></title>
+	<!--[if !mso]><!-->
+	<!--<![endif]-->
+	<style type="text/css">
+		body {
+			margin: 0;
+			padding: 0;
+		}
+
+		table,
+		td,
+		tr {
+			vertical-align: top;
+			border-collapse: collapse;
+		}
+
+		* {
+			line-height: inherit;
+		}
+
+		a[x-apple-data-detectors=true] {
+			color: inherit !important;
+			text-decoration: none !important;
+		}
+	</style>
+	<style type="text/css" id="media-query">
+		@media (max-width: 640px) {
+
+			.block-grid,
+			.col {
+				min-width: 320px !important;
+				max-width: 100% !important;
+				display: block !important;
+			}
+
+			.block-grid {
+				width: 100% !important;
+			}
+
+			.col {
+				width: 100% !important;
+			}
+
+			.col>div {
+				margin: 0 auto;
+			}
+
+			img.fullwidth,
+			img.fullwidthOnMobile {
+				max-width: 100% !important;
+			}
+
+			.no-stack .col {
+				min-width: 0 !important;
+				display: table-cell !important;
+			}
+
+			.no-stack.two-up .col {
+				width: 50% !important;
+			}
+
+			.no-stack .col.num4 {
+				width: 33% !important;
+			}
+
+			.no-stack .col.num8 {
+				width: 66% !important;
+			}
+
+			.no-stack .col.num4 {
+				width: 33% !important;
+			}
+
+			.no-stack .col.num3 {
+				width: 25% !important;
+			}
+
+			.no-stack .col.num6 {
+				width: 50% !important;
+			}
+
+			.no-stack .col.num9 {
+				width: 75% !important;
+			}
+
+			.video-block {
+				max-width: none !important;
+			}
+
+			.mobile_hide {
+				min-height: 0px;
+				max-height: 0px;
+				max-width: 0px;
+				display: none;
+				overflow: hidden;
+				font-size: 0px;
+			}
+
+			.desktop_hide {
+				display: block !important;
+				max-height: none !important;
+			}
+		}
+	</style>
+</head>
+
+<body class="clean-body" style="margin: 0; padding: 0; -webkit-text-size-adjust: 100%; background-color: #f2f3ef;"><div style="display:none">{beacon}</div>
+	<!--[if IE]><div class="ie-browser"><![endif]-->
+	<table class="nl-container" style="table-layout: fixed; vertical-align: top; min-width: 320px; Margin: 0 auto; border-spacing: 0; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: #f2f3ef; width: 100%;" cellpadding="0" cellspacing="0" role="presentation" width="100%" bgcolor="#f2f3ef" valign="top">
+		<tbody>
+			<tr style="vertical-align: top;" valign="top">
+				<td style="word-break: break-word; vertical-align: top;" valign="top">
+					<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td align="center" style="background-color:#f2f3ef"><![endif]-->
+					<div style="background-color:#f2f3ef;">
+						<div class="block-grid " style="Margin: 0 auto; min-width: 320px; max-width: 620px; overflow-wrap: break-word; word-wrap: break-word; word-break: break-word; background-color: #f2f3ef;">
+							<div style="border-collapse: collapse;display: table;width: 100%;background-color:#f2f3ef;">
+								<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color:#f2f3ef;"><tr><td align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:620px"><tr class="layout-full-width" style="background-color:#f2f3ef"><![endif]-->
+								<!--[if (mso)|(IE)]><td align="center" width="620" style="background-color:#f2f3ef;width:620px; border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid transparent; border-right: 0px solid transparent;" valign="top"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 30px; padding-left: 30px; padding-top:0px; padding-bottom:10px;"><![endif]-->
+								<div class="col num12" style="min-width: 320px; max-width: 620px; display: table-cell; vertical-align: top; width: 620px;">
+									<div style="width:100% !important;">
+										<!--[if (!mso)&(!IE)]><!-->
+										<div style="border-top:0px solid transparent; border-left:0px solid transparent; border-bottom:0px solid transparent; border-right:0px solid transparent; padding-top:0px; padding-bottom:10px; padding-right: 30px; padding-left: 30px;">
+											<!--<![endif]-->
+											<table class="divider" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed; vertical-align: top; border-spacing: 0; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; min-width: 100%; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;" role="presentation" valign="top">
+												<tbody>
+													<tr style="vertical-align: top;" valign="top">
+														<td class="divider_inner" style="word-break: break-word; vertical-align: top; min-width: 100%; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px;" valign="top">
+															<table class="divider_content" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed; vertical-align: top; border-spacing: 0; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-top: 30px solid transparent; height: 0px; width: 100%;" align="center" role="presentation" height="0" valign="top">
+																<tbody>
+																	<tr style="vertical-align: top;" valign="top">
+																		<td style="word-break: break-word; vertical-align: top; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;" height="0" valign="top"><span></span></td>
+																	</tr>
+																</tbody>
+															</table>
+														</td>
+													</tr>
+												</tbody>
+											</table>
+											<!--[if (!mso)&(!IE)]><!-->
+										</div>
+										<!--<![endif]-->
+									</div>
+								</div>
+								<!--[if (mso)|(IE)]></td></tr></table><![endif]-->
+								<!--[if (mso)|(IE)]></td></tr></table></td></tr></table><![endif]-->
+							</div>
+						</div>
+					</div>
+					<div style="background-color:transparent;">
+						<div class="block-grid " style="Margin: 0 auto; min-width: 320px; max-width: 620px; overflow-wrap: break-word; word-wrap: break-word; word-break: break-word; background-color: #f2f3ef;">
+							<div style="border-collapse: collapse;display: table;width: 100%;background-color:#f2f3ef;">
+								<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color:transparent;"><tr><td align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:620px"><tr class="layout-full-width" style="background-color:#f2f3ef"><![endif]-->
+								<!--[if (mso)|(IE)]><td align="center" width="620" style="background-color:#f2f3ef;width:620px; border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid transparent; border-right: 0px solid transparent;" valign="top"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 0px; padding-left: 0px; padding-top:5px; padding-bottom:5px;"><![endif]-->
+								<div class="col num12" style="min-width: 320px; max-width: 620px; display: table-cell; vertical-align: top; width: 620px;">
+									<div style="width:100% !important;">
+										<!--[if (!mso)&(!IE)]><!-->
+										<div style="border-top:0px solid transparent; border-left:0px solid transparent; border-bottom:0px solid transparent; border-right:0px solid transparent; padding-top:5px; padding-bottom:5px; padding-right: 0px; padding-left: 0px;">
+											<!--<![endif]-->
+											<!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 5px; padding-left: 5px; padding-top: 5px; padding-bottom: 5px; font-family: Georgia, 'Times New Roman', serif"><![endif]-->
+											<div style="color:#333;font-family:Georgia, Times, 'Times New Roman', serif;line-height:1.2;padding-top:5px;padding-right:5px;padding-bottom:5px;padding-left:5px;">
+												<div style="font-family: Georgia, Times, 'Times New Roman', serif; font-size: 12px; line-height: 1.2; color: #333; mso-line-height-alt: 14px;">
+													<p style="font-size: 14px; line-height: 1.2; text-align: center; word-break: break-word; font-family: Georgia, Times, Times New Roman, serif; mso-line-height-alt: 17px; margin: 0;"><a style="text-decoration: underline; color: #333;" href="{view_url}" target="_blank" rel="noopener">View in browser</a></p>
+												</div>
+											</div>
+											<!--[if mso]></td></tr></table><![endif]-->
+											<!--[if (!mso)&(!IE)]><!-->
+										</div>
+										<!--<![endif]-->
+									</div>
+								</div>
+								<!--[if (mso)|(IE)]></td></tr></table><![endif]-->
+								<!--[if (mso)|(IE)]></td></tr></table></td></tr></table><![endif]-->
+							</div>
+						</div>
+					</div>
+					<div style="background-color:transparent;">
+						<div class="block-grid " style="Margin: 0 auto; min-width: 320px; max-width: 620px; overflow-wrap: break-word; word-wrap: break-word; word-break: break-word; background-color: #fff;">
+							<div style="border-collapse: collapse;display: table;width: 100%;background-color:#fff;">
+								<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color:transparent;"><tr><td align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:620px"><tr class="layout-full-width" style="background-color:#fff"><![endif]-->
+								<!--[if (mso)|(IE)]><td align="center" width="620" style="background-color:#fff;width:620px; border-top: 0px solid transparent; border-left: none; border-bottom: 0px solid transparent; border-right: none;" valign="top"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style='padding-top:20px;padding-bottom:20px' width='10' bgcolor='#f2f3ef'><table role='presentation' width='10' cellpadding='0' cellspacing='0' border='0'><tr><td>&nbsp;</td></tr></table></td><td style="padding-right: 20px; padding-left: 20px; padding-top:20px; padding-bottom:20px;"><![endif]-->
+								<div class="col num12" style="min-width: 320px; max-width: 620px; display: table-cell; vertical-align: top; width: 600px;">
+									<div style="width:100% !important;">
+										<!--[if (!mso)&(!IE)]><!-->
+										<div style="border-top:0px solid transparent; border-left:10px solid #f2f3ef; border-bottom:0px solid transparent; border-right:10px solid #f2f3ef; padding-top:20px; padding-bottom:20px; padding-right: 20px; padding-left: 20px;">
+											<!--<![endif]-->
+											<div class="img-container center fixedwidth" align="center" style="padding-right: 10px;padding-left: 10px;">
+												<!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr style="line-height:0px"><td style="padding-right: 10px;padding-left: 10px;" align="center"><![endif]--><a href="https://www.motherjones.com/" target="_blank" style="outline:none" tabindex="-1"> <img class="center fixedwidth" align="center" border="0" src="https://sailthru-media.s3.amazonaws.com/composer/images/sailthru-prod-6hn/Logos/mj-daily-logo_25.png" alt="Mother Jones Daily Newsletter" title="Mother Jones Daily Newsletter" style="text-decoration: none; -ms-interpolation-mode: bicubic; height: auto; border: none; width: 100%; max-width: 140px; display: block;" width="140"></a>
+												<div style="font-size:1px;line-height:10px">&nbsp;</div>
+												<!--[if mso]></td></tr></table><![endif]-->
+											</div>
+											<div class="mobile_hide">
+												<table class="divider" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed; vertical-align: top; border-spacing: 0; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; min-width: 100%; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;" role="presentation" valign="top">
+													<tbody>
+														<tr style="vertical-align: top;" valign="top">
+															<td class="divider_inner" style="word-break: break-word; vertical-align: top; min-width: 100%; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px;" valign="top">
+																<table class="divider_content" border="0" cellpadding="0" cellspacing="0" width="25%" style="table-layout: fixed; vertical-align: top; border-spacing: 0; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-top: 1px solid #ff6900; height: 0px; width: 25%;" align="center" role="presentation" height="0" valign="top">
+																	<tbody>
+																		<tr style="vertical-align: top;" valign="top">
+																			<td style="word-break: break-word; vertical-align: top; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;" height="0" valign="top"><span></span></td>
+																		</tr>
+																	</tbody>
+																</table>
+															</td>
+														</tr>
+													</tbody>
+												</table>
+											</div>
+											<!--[if !mso]><!-->
+											<div class="desktop_hide" style="mso-hide: all; display: none; max-height: 0px; overflow: hidden;">
+												<table class="divider" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed; vertical-align: top; border-spacing: 0; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; min-width: 100%; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;" role="presentation" valign="top">
+													<tbody>
+														<tr style="vertical-align: top;" valign="top">
+															<td class="divider_inner" style="word-break: break-word; vertical-align: top; min-width: 100%; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px;" valign="top">
+																<table class="divider_content" border="0" cellpadding="0" cellspacing="0" width="40%" style="table-layout: fixed; vertical-align: top; border-spacing: 0; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-top: 1px solid #ff6900; height: 0px; width: 40%;" align="center" role="presentation" height="0" valign="top">
+																	<tbody>
+																		<tr style="vertical-align: top;" valign="top">
+																			<td style="word-break: break-word; vertical-align: top; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;" height="0" valign="top"><span></span></td>
+																		</tr>
+																	</tbody>
+																</table>
+															</td>
+														</tr>
+													</tbody>
+												</table>
+											</div>
+											<!--<![endif]-->
+											<!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 5px; padding-left: 5px; padding-top: 5px; padding-bottom: 20px; font-family: Arial, sans-serif"><![endif]-->
+											<div style="color:#333;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;line-height:1.2;padding-top:5px;padding-right:5px;padding-bottom:20px;padding-left:5px;">
+												<div style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 12px; line-height: 1.2; color: #333; mso-line-height-alt: 14px;">
+													<p style="font-size: 12px; line-height: 1.2; text-align: center; word-break: break-word; font-family: Helvetica Neue, Helvetica, Arial, sans-serif; mso-line-height-alt: 14px; margin: 0;">{date('MMMM dd, yyyy')}</p>
+												</div>
+											</div>
+											<!--[if mso]></td></tr></table><![endif]-->
+											<div style="font-size:16px;text-align:center;font-family:Georgia, Times, Times New Roman, serif">{replaced_content = replace(Newsletter.content[0].vars.editors_note, '<p>', '</p>
+												<p style="font-size: 16px; line-height: 1.5; mso-line-height-alt: 22px;">')}
+													{replaced_content_block = replace(replaced_content, '
+												<blockquote>', '<blockquote style="font-size: 16px; line-height: 1.5; mso-line-height-alt: 22px;">')}</blockquote>
+												</blockquote>
+												</p>
+											</div>
+											<!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 0px; padding-left: 0px; padding-top: 0px; padding-bottom: 0px; font-family: Georgia, serif"><![endif]-->
+											<div style="color:#333;font-family:Georgia, Times, Times New Roman, serif;line-height:1.5;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;">
+												<div style="font-family: Georgia, Times, Times New Roman, serif; font-size: 12px; line-height: 1.5; color: #333; mso-line-height-alt: 18px;">
+													<p style="font-size: 16px; line-height: 1.5; word-break: break-word; font-family: Georgia, Times, Times New Roman, serif; mso-line-height-alt: 24px; margin: 0;"><span style="font-size: 16px;">{replaced_content_block}</span></p>
+												</div>
+											</div>
+											<!--[if mso]></td></tr></table><![endif]-->
+											<!--[if (!mso)&(!IE)]><!-->
+										</div>
+										<!--<![endif]-->
+									</div>
+								</div>
+								<!--[if (mso)|(IE)]></td><td style='padding-top:20px;padding-bottom:20px' width='10' bgcolor='#f2f3ef'><table role='presentation' width='10' cellpadding='0' cellspacing='0' border='0'><tr><td>&nbsp;</td></tr></table></td></tr></table><![endif]-->
+								<!--[if (mso)|(IE)]></td></tr></table></td></tr></table><![endif]-->
+							</div>
+						</div>
+					</div>
+					<div style="background-color:#f2f3ef;">
+						<div class="block-grid " style="Margin: 0 auto; min-width: 320px; max-width: 620px; overflow-wrap: break-word; word-wrap: break-word; word-break: break-word; background-color: #f2f3ef;">
+							<div style="border-collapse: collapse;display: table;width: 100%;background-color:#f2f3ef;">
+								<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color:#f2f3ef;"><tr><td align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:620px"><tr class="layout-full-width" style="background-color:#f2f3ef"><![endif]-->
+								<!--[if (mso)|(IE)]><td align="center" width="620" style="background-color:#f2f3ef;width:620px; border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid transparent; border-right: 0px solid transparent;" valign="top"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 30px; padding-left: 30px; padding-top:40px; padding-bottom:40px;"><![endif]-->
+								<div class="col num12" style="min-width: 320px; max-width: 620px; display: table-cell; vertical-align: top; width: 620px;">
+									<div style="width:100% !important;">
+										<!--[if (!mso)&(!IE)]><!-->
+										<div style="border-top:0px solid transparent; border-left:0px solid transparent; border-bottom:0px solid transparent; border-right:0px solid transparent; padding-top:40px; padding-bottom:40px; padding-right: 30px; padding-left: 30px;">
+											<!--<![endif]-->
+											<div class="img-container center fixedwidth" align="center" style="padding-right: 0px;padding-left: 0px;">
+												<!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr style="line-height:0px"><td style="padding-right: 0px;padding-left: 0px;" align="center"><![endif]--><a href="https://secure.motherjones.com/flex/mj/key/7DONATE/src/7EGNA02/" target="_blank" style="outline:none" tabindex="-1"> <img class="center fixedwidth" align="center" border="0" src="https://sailthru-media.s3.amazonaws.com/composer/images/sailthru-prod-6hn/Daily%20Newsletter/House%20Advertisements/newsletter-ads3.jpg" alt="House Donation Ad" title="House Donation Ad" style="text-decoration: none; -ms-interpolation-mode: bicubic; height: auto; border: none; width: 100%; max-width: 308px; display: block;" width="308"></a>
+												<!--[if mso]></td></tr></table><![endif]-->
+											</div>
+											<!--[if (!mso)&(!IE)]><!-->
+										</div>
+										<!--<![endif]-->
+									</div>
+								</div>
+								<!--[if (mso)|(IE)]></td></tr></table><![endif]-->
+								<!--[if (mso)|(IE)]></td></tr></table></td></tr></table><![endif]-->
+							</div>
+						</div>
+					</div>
+					<div style="background-color:transparent;">
+						<div class="block-grid " style="Margin: 0 auto; min-width: 320px; max-width: 620px; overflow-wrap: break-word; word-wrap: break-word; word-break: break-word; background-color: #fff;">
+							<div style="border-collapse: collapse;display: table;width: 100%;background-color:#fff;">
+								<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color:transparent;"><tr><td align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:620px"><tr class="layout-full-width" style="background-color:#fff"><![endif]-->
+								<!--[if (mso)|(IE)]><td align="center" width="620" style="background-color:#fff;width:620px; border-top: 0px solid transparent; border-left: none; border-bottom: 0px solid transparent; border-right: none;" valign="top"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style='padding-top:20px;padding-bottom:20px' width='10' bgcolor='#f2f3ef'><table role='presentation' width='10' cellpadding='0' cellspacing='0' border='0'><tr><td>&nbsp;</td></tr></table></td><td style="padding-right: 20px; padding-left: 20px; padding-top:20px; padding-bottom:20px;"><![endif]-->
+								<div class="col num12" style="min-width: 320px; max-width: 620px; display: table-cell; vertical-align: top; width: 600px;">
+									<div style="width:100% !important;">
+										<!--[if (!mso)&(!IE)]><!-->
+										<div style="border-top:0px solid transparent; border-left:10px solid #f2f3ef; border-bottom:0px solid transparent; border-right:10px solid #f2f3ef; padding-top:20px; padding-bottom:20px; padding-right: 20px; padding-left: 20px;">
+											<!--<![endif]-->
+											<div class="img-container center fixedwidth" align="center" style="padding-right: 0px;padding-left: 0px;">
+												<!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr style="line-height:0px"><td style="padding-right: 0px;padding-left: 0px;" align="center"><![endif]--><img class="center fixedwidth" align="center" border="0" src="https://sailthru-media.s3.amazonaws.com/composer/images/sailthru-prod-6ho/label-top-story_b.png" alt="Top Story" title="Top Story" style="text-decoration: none; -ms-interpolation-mode: bicubic; border: 0; height: auto; width: 100%; max-width: 280px; display: block;" width="280">
+												<div style="font-size:1px;line-height:10px">&nbsp;</div>
+												<!--[if mso]></td></tr></table><![endif]-->
+											</div>
+											<div class="img-container center fixedwidth" align="center" style="padding-right: 0px;padding-left: 0px;">
+												<!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr style="line-height:0px"><td style="padding-right: 0px;padding-left: 0px;" align="center"><![endif]--><a href="{Newsletter.content[0].vars.top_story_url}" target="_blank" style="outline:none" tabindex="-1"> <img class="center fixedwidth" align="center" border="0" src="{Newsletter.content[0].vars.top_story_img}" alt="Top Story" title="Top Story" style="text-decoration: none; -ms-interpolation-mode: bicubic; height: auto; border: none; width: 100%; max-width: 560px; display: block;" width="560"></a>
+												<!--[if mso]></td></tr></table><![endif]-->
+											</div>
+											<!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 15px; padding-left: 15px; padding-top: 15px; padding-bottom: 5px; font-family: Arial, sans-serif"><![endif]-->
+											<div style="color:#000;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;line-height:1.2;padding-top:15px;padding-right:15px;padding-bottom:5px;padding-left:15px;">
+												<div style="font-size: 12px; line-height: 1.2; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #000; mso-line-height-alt: 14px;">
+													<p style="font-size: 20px; line-height: 1.2; text-align: center; word-break: break-word; font-family: Helvetica Neue, Helvetica, Arial, sans-serif; mso-line-height-alt: 24px; margin: 0;"><span style="font-size: 20px;"><strong><span style="font-size: 20px;"><a style="text-decoration: none; color: #000;" href="{Newsletter.content[0].vars.top_story_url}" target="_blank" rel="noopener">{Newsletter.content[0].vars.top_story_title}</a></span></strong></span></p>
+												</div>
+											</div>
+											<!--[if mso]></td></tr></table><![endif]-->
+											<!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 15px; padding-left: 15px; padding-top: 0px; padding-bottom: 9px; font-family: Georgia, 'Times New Roman', serif"><![endif]-->
+											<div style="color:#333;font-family:Georgia, Times, 'Times New Roman', serif;line-height:1.2;padding-top:0px;padding-right:15px;padding-bottom:9px;padding-left:15px;">
+												<div style="font-family: Georgia, Times, 'Times New Roman', serif; font-size: 12px; line-height: 1.2; color: #333; mso-line-height-alt: 14px;">
+													<p style="font-size: 16px; line-height: 1.2; text-align: center; word-break: break-word; font-family: Georgia, Times, Times New Roman, serif; mso-line-height-alt: 19px; margin: 0;"><span style="font-size: 16px;"><em><span style="font-size: 16px;">{Newsletter.content[0].vars.top_story_dek} </span></em></span></p>
+												</div>
+											</div>
+											<!--[if mso]></td></tr></table><![endif]-->
+											<!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 15px; padding-left: 15px; padding-top: 0px; padding-bottom: 0px; font-family: Arial, sans-serif"><![endif]-->
+											<div style="color:#999;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;line-height:1.5;padding-top:0px;padding-right:15px;padding-bottom:0px;padding-left:15px;">
+												<div style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; line-height: 1.5; font-size: 12px; color: #999; mso-line-height-alt: 18px;">
+													<p style="line-height: 1.5; font-size: 12px; text-align: center; word-break: break-word; font-family: Helvetica Neue, Helvetica, Arial, sans-serif; mso-line-height-alt: 18px; margin: 0;">{if Newsletter.content[0].vars.top_story_byline}{upper(Newsletter.content[0].vars.top_story_byline)}{else} MOTHER JONES{/if}</p>
+												</div>
+											</div>
+											<!--[if mso]></td></tr></table><![endif]-->
+											<!--[if (!mso)&(!IE)]><!-->
+										</div>
+										<!--<![endif]-->
+									</div>
+								</div>
+								<!--[if (mso)|(IE)]></td><td style='padding-top:20px;padding-bottom:20px' width='10' bgcolor='#f2f3ef'><table role='presentation' width='10' cellpadding='0' cellspacing='0' border='0'><tr><td>&nbsp;</td></tr></table></td></tr></table><![endif]-->
+								<!--[if (mso)|(IE)]></td></tr></table></td></tr></table><![endif]-->
+							</div>
+						</div>
+					</div>
+					<div style="background-color:transparent;">
+						<div class="block-grid " style="Margin: 0 auto; min-width: 320px; max-width: 620px; overflow-wrap: break-word; word-wrap: break-word; word-break: break-word; background-color: #f2f3ef;">
+							<div style="border-collapse: collapse;display: table;width: 100%;background-color:#f2f3ef;">
+								<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color:transparent;"><tr><td align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:620px"><tr class="layout-full-width" style="background-color:#f2f3ef"><![endif]-->
+								<!--[if (mso)|(IE)]><td align="center" width="620" style="background-color:#f2f3ef;width:620px; border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid transparent; border-right: 0px solid transparent;" valign="top"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 0px; padding-left: 0px; padding-top:10px; padding-bottom:10px;"><![endif]-->
+								<div class="col num12" style="min-width: 320px; max-width: 620px; display: table-cell; vertical-align: top; width: 620px;">
+									<div style="width:100% !important;">
+										<!--[if (!mso)&(!IE)]><!-->
+										<div style="border-top:0px solid transparent; border-left:0px solid transparent; border-bottom:0px solid transparent; border-right:0px solid transparent; padding-top:10px; padding-bottom:10px; padding-right: 0px; padding-left: 0px;">
+											<!--<![endif]-->
+											<table class="divider" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed; vertical-align: top; border-spacing: 0; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; min-width: 100%; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;" role="presentation" valign="top">
+												<tbody>
+													<tr style="vertical-align: top;" valign="top">
+														<td class="divider_inner" style="word-break: break-word; vertical-align: top; min-width: 100%; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px;" valign="top">
+															<table class="divider_content" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed; vertical-align: top; border-spacing: 0; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-top: 30px solid transparent; height: 0px; width: 100%;" align="center" role="presentation" height="0" valign="top">
+																<tbody>
+																	<tr style="vertical-align: top;" valign="top">
+																		<td style="word-break: break-word; vertical-align: top; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;" height="0" valign="top"><span></span></td>
+																	</tr>
+																</tbody>
+															</table>
+														</td>
+													</tr>
+												</tbody>
+											</table>
+											<!--[if (!mso)&(!IE)]><!-->
+										</div>
+										<!--<![endif]-->
+									</div>
+								</div>
+								<!--[if (mso)|(IE)]></td></tr></table><![endif]-->
+								<!--[if (mso)|(IE)]></td></tr></table></td></tr></table><![endif]-->
+							</div>
+						</div>
+					</div>
+					<div style="background-color:transparent;">
+						<div class="block-grid " style="Margin: 0 auto; min-width: 320px; max-width: 620px; overflow-wrap: break-word; word-wrap: break-word; word-break: break-word; background-color: #fff;">
+							<div style="border-collapse: collapse;display: table;width: 100%;background-color:#fff;">
+								<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color:transparent;"><tr><td align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:620px"><tr class="layout-full-width" style="background-color:#fff"><![endif]-->
+								<!--[if (mso)|(IE)]><td align="center" width="620" style="background-color:#fff;width:620px; border-top: 0px solid transparent; border-left: none; border-bottom: 0px solid transparent; border-right: none;" valign="top"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style='padding-top:20px;padding-bottom:20px' width='10' bgcolor='#f2f3ef'><table role='presentation' width='10' cellpadding='0' cellspacing='0' border='0'><tr><td>&nbsp;</td></tr></table></td><td style="padding-right: 20px; padding-left: 20px; padding-top:20px; padding-bottom:20px;"><![endif]-->
+								<div class="col num12" style="min-width: 320px; max-width: 620px; display: table-cell; vertical-align: top; width: 600px;">
+									<div style="width:100% !important;">
+										<!--[if (!mso)&(!IE)]><!-->
+										<div style="border-top:0px solid transparent; border-left:10px solid #f2f3ef; border-bottom:0px solid transparent; border-right:10px solid #f2f3ef; padding-top:20px; padding-bottom:20px; padding-right: 20px; padding-left: 20px;">
+											<!--<![endif]-->
+											<div class="img-container center fixedwidth" align="center" style="padding-right: 0px;padding-left: 0px;">
+												<!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr style="line-height:0px"><td style="padding-right: 0px;padding-left: 0px;" align="center"><![endif]--><img class="center fixedwidth" align="center" border="0" src="https://sailthru-media.s3.amazonaws.com/composer/images/sailthru-prod-6ho/label-trending_b.png" alt="Trending" title="Trending" style="text-decoration: none; -ms-interpolation-mode: bicubic; border: 0; height: auto; width: 100%; max-width: 280px; display: block;" width="280">
+												<div style="font-size:1px;line-height:20px">&nbsp;</div>
+												<!--[if mso]></td></tr></table><![endif]-->
+											</div>
+											<!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 15px; padding-left: 15px; padding-top: 0px; padding-bottom: 9px; font-family: Arial, sans-serif"><![endif]-->
+											<div style="color:#000;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;line-height:1.2;padding-top:0px;padding-right:15px;padding-bottom:9px;padding-left:15px;">
+												<div style="font-size: 16px; line-height: 1.2; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; text-align: center; color: #000; mso-line-height-alt: 19px;"><span style="font-size: 20px;"><strong><span style="font-size: 20px;"><a style="text-decoration: none; color: #000;" href="{Newsletter.content[0].vars.trending_url_1}" target="_blank" rel="noopener">{Newsletter.content[0].vars.trending_title_1}</a></span></strong></span></div>
+											</div>
+											<!--[if mso]></td></tr></table><![endif]-->
+											<!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 10px; padding-left: 10px; padding-top: 0px; padding-bottom: 20px; font-family: Arial, sans-serif"><![endif]-->
+											<div style="color:#999;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;line-height:1.2;padding-top:0px;padding-right:10px;padding-bottom:20px;padding-left:10px;">
+												<div style="line-height: 1.2; font-size: 12px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #999; mso-line-height-alt: 14px;">
+													<p style="font-size: 12px; line-height: 1.2; text-align: center; word-break: break-word; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; mso-line-height-alt: 14px; margin: 0;"><span style="font-size: 12px;">{upper(Newsletter.content[0].vars.trending_byline_1)}</span></p>
+												</div>
+											</div>
+											<!--[if mso]></td></tr></table><![endif]-->
+											<table class="divider" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed; vertical-align: top; border-spacing: 0; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; min-width: 100%; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;" role="presentation" valign="top">
+												<tbody>
+													<tr style="vertical-align: top;" valign="top">
+														<td class="divider_inner" style="word-break: break-word; vertical-align: top; min-width: 100%; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px;" valign="top">
+															<table class="divider_content" border="0" cellpadding="0" cellspacing="0" width="50%" style="table-layout: fixed; vertical-align: top; border-spacing: 0; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-top: 1px solid #BBBBBB; height: 0px; width: 50%;" align="center" role="presentation" height="0" valign="top">
+																<tbody>
+																	<tr style="vertical-align: top;" valign="top">
+																		<td style="word-break: break-word; vertical-align: top; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;" height="0" valign="top"><span></span></td>
+																	</tr>
+																</tbody>
+															</table>
+														</td>
+													</tr>
+												</tbody>
+											</table>
+											<!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 15px; padding-left: 15px; padding-top: 18px; padding-bottom: 9px; font-family: Arial, sans-serif"><![endif]-->
+											<div style="color:#000;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;line-height:1.2;padding-top:18px;padding-right:15px;padding-bottom:9px;padding-left:15px;">
+												<div style="font-size: 16px; line-height: 1.2; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #000; mso-line-height-alt: 19px;">
+													<p style="font-size: 20px; line-height: 1.2; text-align: center; word-break: break-word; font-family: Helvetica Neue, Helvetica, Arial, sans-serif; mso-line-height-alt: 24px; margin: 0;"><span style="font-size: 20px;"><strong><span style="font-size: 20px;"><a style="text-decoration: none; color: #000;" href="{Newsletter.content[0].vars.trending_url_2}" target="_blank" rel="noopener">{Newsletter.content[0].vars.trending_title_2}</a></span></strong></span></p>
+												</div>
+											</div>
+											<!--[if mso]></td></tr></table><![endif]-->
+											<!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 10px; padding-left: 10px; padding-top: 0px; padding-bottom: 20px; font-family: Arial, sans-serif"><![endif]-->
+											<div style="color:#999;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;line-height:1.2;padding-top:0px;padding-right:10px;padding-bottom:20px;padding-left:10px;">
+												<div style="line-height: 1.2; font-size: 12px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #999; mso-line-height-alt: 14px;">
+													<p style="font-size: 12px; line-height: 1.2; text-align: center; word-break: break-word; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; mso-line-height-alt: 14px; margin: 0;"><span style="font-size: 12px;">{upper(Newsletter.content[0].vars.trending_byline_2)}</span></p>
+												</div>
+											</div>
+											<!--[if mso]></td></tr></table><![endif]-->
+											<table class="divider" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed; vertical-align: top; border-spacing: 0; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; min-width: 100%; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;" role="presentation" valign="top">
+												<tbody>
+													<tr style="vertical-align: top;" valign="top">
+														<td class="divider_inner" style="word-break: break-word; vertical-align: top; min-width: 100%; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px;" valign="top">
+															<table class="divider_content" border="0" cellpadding="0" cellspacing="0" width="50%" style="table-layout: fixed; vertical-align: top; border-spacing: 0; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-top: 1px solid #BBBBBB; height: 0px; width: 50%;" align="center" role="presentation" height="0" valign="top">
+																<tbody>
+																	<tr style="vertical-align: top;" valign="top">
+																		<td style="word-break: break-word; vertical-align: top; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;" height="0" valign="top"><span></span></td>
+																	</tr>
+																</tbody>
+															</table>
+														</td>
+													</tr>
+												</tbody>
+											</table>
+											<!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 15px; padding-left: 15px; padding-top: 18px; padding-bottom: 9px; font-family: Arial, sans-serif"><![endif]-->
+											<div style="color:#000;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;line-height:1.2;padding-top:18px;padding-right:15px;padding-bottom:9px;padding-left:15px;">
+												<div style="font-size: 16px; line-height: 1.2; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #000; mso-line-height-alt: 19px;">
+													<p style="font-size: 20px; line-height: 1.2; text-align: center; word-break: break-word; font-family: Helvetica Neue, Helvetica, Arial, sans-serif; mso-line-height-alt: 24px; margin: 0;"><span style="font-size: 20px;"><strong><span style="font-size: 20px;"><a style="text-decoration: none; color: #000;" href="{Newsletter.content[0].vars.trending_url_3}" target="_blank" rel="noopener">{Newsletter.content[0].vars.trending_title_3}</a></span></strong></span></p>
+												</div>
+											</div>
+											<!--[if mso]></td></tr></table><![endif]-->
+											<!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 10px; padding-left: 10px; padding-top: 0px; padding-bottom: 20px; font-family: Arial, sans-serif"><![endif]-->
+											<div style="color:#999;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;line-height:1.2;padding-top:0px;padding-right:10px;padding-bottom:20px;padding-left:10px;">
+												<div style="line-height: 1.2; font-size: 12px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #999; mso-line-height-alt: 14px;">
+													<p style="font-size: 12px; line-height: 1.2; text-align: center; word-break: break-word; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; mso-line-height-alt: 14px; margin: 0;"><span style="font-size: 12px;">{upper(Newsletter.content[0].vars.trending_byline_3)}</span></p>
+												</div>
+											</div>
+											<!--[if mso]></td></tr></table><![endif]-->
+											<table class="divider" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed; vertical-align: top; border-spacing: 0; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; min-width: 100%; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;" role="presentation" valign="top">
+												<tbody>
+													<tr style="vertical-align: top;" valign="top">
+														<td class="divider_inner" style="word-break: break-word; vertical-align: top; min-width: 100%; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px;" valign="top">
+															<table class="divider_content" border="0" cellpadding="0" cellspacing="0" width="50%" style="table-layout: fixed; vertical-align: top; border-spacing: 0; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-top: 1px solid #BBBBBB; height: 0px; width: 50%;" align="center" role="presentation" height="0" valign="top">
+																<tbody>
+																	<tr style="vertical-align: top;" valign="top">
+																		<td style="word-break: break-word; vertical-align: top; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;" height="0" valign="top"><span></span></td>
+																	</tr>
+																</tbody>
+															</table>
+														</td>
+													</tr>
+												</tbody>
+											</table>
+											<!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 15px; padding-left: 15px; padding-top: 18px; padding-bottom: 9px; font-family: Arial, sans-serif"><![endif]-->
+											<div style="color:#000;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;line-height:1.2;padding-top:18px;padding-right:15px;padding-bottom:9px;padding-left:15px;">
+												<div style="font-size: 16px; line-height: 1.2; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #000; mso-line-height-alt: 19px;">
+													<p style="font-size: 20px; line-height: 1.2; text-align: center; word-break: break-word; font-family: Helvetica Neue, Helvetica, Arial, sans-serif; mso-line-height-alt: 24px; margin: 0;"><span style="font-size: 20px;"><strong><span style="font-size: 20px;"><a style="text-decoration: none; color: #000;" href="{Newsletter.content[0].vars.trending_url_4}" target="_blank" rel="noopener">{Newsletter.content[0].vars.trending_title_4}</a></span></strong></span></p>
+												</div>
+											</div>
+											<!--[if mso]></td></tr></table><![endif]-->
+											<!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 10px; padding-left: 10px; padding-top: 0px; padding-bottom: 0px; font-family: Arial, sans-serif"><![endif]-->
+											<div style="color:#999;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;line-height:1.2;padding-top:0px;padding-right:10px;padding-bottom:0px;padding-left:10px;">
+												<div style="line-height: 1.2; font-size: 12px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #999; mso-line-height-alt: 14px;">
+													<p style="font-size: 12px; line-height: 1.2; text-align: center; word-break: break-word; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; mso-line-height-alt: 14px; margin: 0;"><span style="font-size: 12px;">{upper(Newsletter.content[0].vars.trending_byline_4)}</span></p>
+												</div>
+											</div>
+											<!--[if mso]></td></tr></table><![endif]-->
+											<!--[if (!mso)&(!IE)]><!-->
+										</div>
+										<!--<![endif]-->
+									</div>
+								</div>
+								<!--[if (mso)|(IE)]></td><td style='padding-top:20px;padding-bottom:20px' width='10' bgcolor='#f2f3ef'><table role='presentation' width='10' cellpadding='0' cellspacing='0' border='0'><tr><td>&nbsp;</td></tr></table></td></tr></table><![endif]-->
+								<!--[if (mso)|(IE)]></td></tr></table></td></tr></table><![endif]-->
+							</div>
+						</div>
+					</div>
+					<div style="background-color:#f2f3ef;">
+						<div class="block-grid " style="Margin: 0 auto; min-width: 320px; max-width: 620px; overflow-wrap: break-word; word-wrap: break-word; word-break: break-word; background-color: #f2f3ef;">
+							<div style="border-collapse: collapse;display: table;width: 100%;background-color:#f2f3ef;">
+								<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color:#f2f3ef;"><tr><td align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:620px"><tr class="layout-full-width" style="background-color:#f2f3ef"><![endif]-->
+								<!--[if (mso)|(IE)]><td align="center" width="620" style="background-color:#f2f3ef;width:620px; border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid transparent; border-right: 0px solid transparent;" valign="top"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 30px; padding-left: 30px; padding-top:40px; padding-bottom:40px;"><![endif]-->
+								<div class="col num12" style="min-width: 320px; max-width: 620px; display: table-cell; vertical-align: top; width: 620px;">
+									<div style="width:100% !important;">
+										<!--[if (!mso)&(!IE)]><!-->
+										<div style="border-top:0px solid transparent; border-left:0px solid transparent; border-bottom:0px solid transparent; border-right:0px solid transparent; padding-top:40px; padding-bottom:40px; padding-right: 30px; padding-left: 30px;">
+											<!--<![endif]-->
+											<div class="img-container center fixedwidth" align="center" style="padding-right: 0px;padding-left: 0px;">
+												<!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr style="line-height:0px"><td style="padding-right: 0px;padding-left: 0px;" align="center"><![endif]--><a href="https://secure.motherjones.com/flex/mj/key/SEGNBC/" target="_blank" style="outline:none" tabindex="-1"> <img class="center fixedwidth" align="center" border="0" src="https://sailthru-media.s3.amazonaws.com/composer/images/sailthru-prod-6hn/Daily%20Newsletter/House%20Advertisements/newsletter-ads5.jpg" alt="House Subscription Ad" title="House Subscription Ad" style="text-decoration: none; -ms-interpolation-mode: bicubic; height: auto; border: none; width: 100%; max-width: 308px; display: block;" width="308"></a>
+												<!--[if mso]></td></tr></table><![endif]-->
+											</div>
+											<!--[if (!mso)&(!IE)]><!-->
+										</div>
+										<!--<![endif]-->
+									</div>
+								</div>
+								<!--[if (mso)|(IE)]></td></tr></table><![endif]-->
+								<!--[if (mso)|(IE)]></td></tr></table></td></tr></table><![endif]-->
+							</div>
+						</div>
+					</div>
+					<div style="background-color:transparent;">
+						<div class="block-grid " style="Margin: 0 auto; min-width: 320px; max-width: 620px; overflow-wrap: break-word; word-wrap: break-word; word-break: break-word; background-color: #fff;">
+							<div style="border-collapse: collapse;display: table;width: 100%;background-color:#fff;">
+								<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color:transparent;"><tr><td align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:620px"><tr class="layout-full-width" style="background-color:#fff"><![endif]-->
+								<!--[if (mso)|(IE)]><td align="center" width="620" style="background-color:#fff;width:620px; border-top: 0px solid transparent; border-left: none; border-bottom: 0px solid transparent; border-right: none;" valign="top"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style='padding-top:20px;padding-bottom:20px' width='10' bgcolor='#f2f3ef'><table role='presentation' width='10' cellpadding='0' cellspacing='0' border='0'><tr><td>&nbsp;</td></tr></table></td><td style="padding-right: 20px; padding-left: 20px; padding-top:20px; padding-bottom:20px;"><![endif]-->
+								<div class="col num12" style="min-width: 320px; max-width: 620px; display: table-cell; vertical-align: top; width: 600px;">
+									<div style="width:100% !important;">
+										<!--[if (!mso)&(!IE)]><!-->
+										<div style="border-top:0px solid transparent; border-left:10px solid #f2f3ef; border-bottom:0px solid transparent; border-right:10px solid #f2f3ef; padding-top:20px; padding-bottom:20px; padding-right: 20px; padding-left: 20px;">
+											<!--<![endif]-->
+											<div style="font-size:16px;text-align:center;font-family:Georgia, Times, Times New Roman, serif">{found_it = false}
+												{section_name = ''}
+												{spec_sec_title = ''}
+												{spec_sec_img = ''}
+												{spec_sec_img_credit = ''}
+												{post_url = ''}
+												{post_dek = ''}
+												{post_byline = ''}
+												{day_of_week = date('EEEE',time('now'))}
+												{img_url = ''}
+
+												{if Newsletter.content[0].vars.override_url != null}
+												{spec_sec_title = Newsletter.content[0].vars.override_title}
+												{spec_sec_img = Newsletter.content[0].vars.override_img}
+												{spec_sec_img_credit = Newsletter.content[0].vars.override_img_credit}
+												{post_url = Newsletter.content[0].vars.override_url}
+												{post_dek = Newsletter.content[0].vars.override_dek}
+												{post_byline = Newsletter.content[0].vars.override_byline}
+												{else}
+												{switch day_of_week}
+												{case 'Monday'}
+												{img_url = 'https://sailthru-media.s3.amazonaws.com/composer/images/sailthru-prod-6ho/label-health-environment_50.png'}
+												{spec_sec_title = HealthEnvironment.content[0].title}
+												{spec_sec_img = HealthEnvironment.content[0].image}
+												{post_url = HealthEnvironment.content[0].url}
+												{post_dek = HealthEnvironment.content[0].vars.mj_dek}
+												{post_byline = upper(HealthEnvironment.content[0].author)}
+												{found_it = true}
+												{/case}
+												{case 'Tuesday'}
+												{img_url = 'https://sailthru-media.s3.amazonaws.com/composer/images/sailthru-prod-6ho/label-food_50.png'}
+												{tag1 = 'food'}
+												{tag2 = 'food'}
+												{/case}
+												{case 'Wednesday'}
+												{img_url = 'https://sailthru-media.s3.amazonaws.com/composer/images/sailthru-prod-6hn/Daily%20Newsletter/Creative%20Assets/label-mojo-podcast_50.png'}
+												{tag1 = 'the-mother-jones-podcast'}
+												{tag2 = 'the-mother-jones-podcast'}
+												{/case}
+												{case 'Thursday'}
+												{img_url = 'https://sailthru-media.s3.amazonaws.com/composer/images/sailthru-prod-6hn/Daily%20Newsletter/Creative%20Assets/label-big-feature_50.png'}
+												{tag1 = 'the-big-feature'}
+												{tag2 = 'the-big-feature'}
+												{/case}
+												{case 'Friday'}
+												{img_url = 'https://sailthru-media.s3.amazonaws.com/composer/images/sailthru-prod-6hn/Daily%20Newsletter/Creative%20Assets/label-weekend-reads_50.png'}
+												{spec_sec_title = Weekend.content[0].title}
+												{spec_sec_img = Weekend.content[0].image}
+												{post_url = Weekend.content[0].url}
+												{post_dek = Weekend.content[0].vars.mj_dek}
+												{post_byline = upper(Weekend.content[0].author)}
+												{found_it = true}
+												{/case}
+												{/switch}
+
+												{if !found_it}
+												{foreach Everything.content as c}
+												{foreach c.tags as tag}
+												{if tag == tag1 || tag == tag2}
+												{*section_name = 'Health and Environment'*}
+												{spec_sec_title = c.title}
+												{spec_sec_img = c.image}
+												{spec_sec_img_credit = ''}
+												{post_url = c.url}
+												{post_dek = c.vars.mj_dek}
+												{post_byline = upper(c.author)}
+												{found_it = true}
+												{break}
+												{/if}
+												{/foreach}
+												{if found_it}
+												{break}
+												{/if}
+												{/foreach}
+												{/if}
+												{/if}</div>
+											<div class="img-container center fixedwidth" align="center" style="padding-right: 0px;padding-left: 0px;">
+												<!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr style="line-height:0px"><td style="padding-right: 0px;padding-left: 0px;" align="center"><![endif]--><img class="center fixedwidth" align="center" border="0" src="{img_url}" alt="Health &amp; Environment" title="Health &amp; Environment" style="text-decoration: none; -ms-interpolation-mode: bicubic; border: 0; height: auto; width: 100%; max-width: 280px; display: block;" width="280">
+												<div style="font-size:1px;line-height:10px">&nbsp;</div>
+												<!--[if mso]></td></tr></table><![endif]-->
+											</div>
+											<div class="img-container center fixedwidth" align="center" style="padding-right: 0px;padding-left: 0px;">
+												<!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr style="line-height:0px"><td style="padding-right: 0px;padding-left: 0px;" align="center"><![endif]--><a href="{post_url}" target="_blank" style="outline:none" tabindex="-1"> <img class="center fixedwidth" align="center" border="0" src="{spec_sec_img}" alt="Special Feature" title="Special Feature" style="text-decoration: none; -ms-interpolation-mode: bicubic; height: auto; border: none; width: 100%; max-width: 560px; display: block;" width="560"></a>
+												<!--[if mso]></td></tr></table><![endif]-->
+											</div>
+											<!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 15px; padding-left: 15px; padding-top: 15px; padding-bottom: 5px; font-family: Arial, sans-serif"><![endif]-->
+											<div style="color:#000;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;line-height:1.2;padding-top:15px;padding-right:15px;padding-bottom:5px;padding-left:15px;">
+												<div style="font-size: 12px; line-height: 1.2; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #000; mso-line-height-alt: 14px;">
+													<p style="font-size: 20px; line-height: 1.2; text-align: center; word-break: break-word; font-family: Helvetica Neue, Helvetica, Arial, sans-serif; mso-line-height-alt: 24px; margin: 0;"><span style="font-size: 20px;"><a style="text-decoration: none; color: #000;" href="{post_url}" target="_blank" rel="noopener"><strong><span style="font-size: 20px;">{spec_sec_title}</span></strong></a></span></p>
+												</div>
+											</div>
+											<!--[if mso]></td></tr></table><![endif]-->
+											<!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 15px; padding-left: 15px; padding-top: 0px; padding-bottom: 9px; font-family: Georgia, 'Times New Roman', serif"><![endif]-->
+											<div style="color:#333;font-family:Georgia, Times, 'Times New Roman', serif;line-height:1.2;padding-top:0px;padding-right:15px;padding-bottom:9px;padding-left:15px;">
+												<div style="font-family: Georgia, Times, 'Times New Roman', serif; font-size: 12px; line-height: 1.2; color: #333; mso-line-height-alt: 14px;">
+													<p style="font-size: 16px; line-height: 1.2; text-align: center; word-break: break-word; font-family: Georgia, Times, Times New Roman, serif; mso-line-height-alt: 19px; margin: 0;"><span style="font-size: 16px;"><em><span style="font-size: 16px;">{post_dek}</span></em></span></p>
+												</div>
+											</div>
+											<!--[if mso]></td></tr></table><![endif]-->
+											<!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 15px; padding-left: 15px; padding-top: 0px; padding-bottom: 0px; font-family: Arial, sans-serif"><![endif]-->
+											<div style="color:#999;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;line-height:1.5;padding-top:0px;padding-right:15px;padding-bottom:0px;padding-left:15px;">
+												<div style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; line-height: 1.5; font-size: 12px; color: #999; mso-line-height-alt: 18px;">
+													<p style="line-height: 1.5; font-size: 12px; text-align: center; word-break: break-word; font-family: Helvetica Neue, Helvetica, Arial, sans-serif; mso-line-height-alt: 18px; margin: 0;"><span style="font-size: 12px;">BY {upper(post_byline)}</span></p>
+												</div>
+											</div>
+											<!--[if mso]></td></tr></table><![endif]-->
+											<!--[if (!mso)&(!IE)]><!-->
+										</div>
+										<!--<![endif]-->
+									</div>
+								</div>
+								<!--[if (mso)|(IE)]></td><td style='padding-top:20px;padding-bottom:20px' width='10' bgcolor='#f2f3ef'><table role='presentation' width='10' cellpadding='0' cellspacing='0' border='0'><tr><td>&nbsp;</td></tr></table></td></tr></table><![endif]-->
+								<!--[if (mso)|(IE)]></td></tr></table></td></tr></table><![endif]-->
+							</div>
+						</div>
+					</div>
+					<div style="background-color:transparent;">
+						<div class="block-grid " style="Margin: 0 auto; min-width: 320px; max-width: 620px; overflow-wrap: break-word; word-wrap: break-word; word-break: break-word; background-color: #f2f3ef;">
+							<div style="border-collapse: collapse;display: table;width: 100%;background-color:#f2f3ef;">
+								<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color:transparent;"><tr><td align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:620px"><tr class="layout-full-width" style="background-color:#f2f3ef"><![endif]-->
+								<!--[if (mso)|(IE)]><td align="center" width="620" style="background-color:#f2f3ef;width:620px; border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid transparent; border-right: 0px solid transparent;" valign="top"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 0px; padding-left: 0px; padding-top:10px; padding-bottom:10px;"><![endif]-->
+								<div class="col num12" style="min-width: 320px; max-width: 620px; display: table-cell; vertical-align: top; width: 620px;">
+									<div style="width:100% !important;">
+										<!--[if (!mso)&(!IE)]><!-->
+										<div style="border-top:0px solid transparent; border-left:0px solid transparent; border-bottom:0px solid transparent; border-right:0px solid transparent; padding-top:10px; padding-bottom:10px; padding-right: 0px; padding-left: 0px;">
+											<!--<![endif]-->
+											<table class="divider" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed; vertical-align: top; border-spacing: 0; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; min-width: 100%; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;" role="presentation" valign="top">
+												<tbody>
+													<tr style="vertical-align: top;" valign="top">
+														<td class="divider_inner" style="word-break: break-word; vertical-align: top; min-width: 100%; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px;" valign="top">
+															<table class="divider_content" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed; vertical-align: top; border-spacing: 0; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-top: 30px solid transparent; height: 0px; width: 100%;" align="center" role="presentation" height="0" valign="top">
+																<tbody>
+																	<tr style="vertical-align: top;" valign="top">
+																		<td style="word-break: break-word; vertical-align: top; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;" height="0" valign="top"><span></span></td>
+																	</tr>
+																</tbody>
+															</table>
+														</td>
+													</tr>
+												</tbody>
+											</table>
+											<!--[if (!mso)&(!IE)]><!-->
+										</div>
+										<!--<![endif]-->
+									</div>
+								</div>
+								<!--[if (mso)|(IE)]></td></tr></table><![endif]-->
+								<!--[if (mso)|(IE)]></td></tr></table></td></tr></table><![endif]-->
+							</div>
+						</div>
+					</div>
+					<div style="background-color:#F2F3EF;">
+						<div class="block-grid " style="Margin: 0 auto; min-width: 320px; max-width: 620px; overflow-wrap: break-word; word-wrap: break-word; word-break: break-word; background-color: #fff;">
+							<div style="border-collapse: collapse;display: table;width: 100%;background-color:#fff;">
+								<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color:#F2F3EF;"><tr><td align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:620px"><tr class="layout-full-width" style="background-color:#fff"><![endif]-->
+								<!--[if (mso)|(IE)]><td align="center" width="620" style="background-color:#fff;width:620px; border-top: 0px solid transparent; border-left: none; border-bottom: 0px solid transparent; border-right: none;" valign="top"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style='padding-top:20px;padding-bottom:20px' width='10' bgcolor='#f2f3ef'><table role='presentation' width='10' cellpadding='0' cellspacing='0' border='0'><tr><td>&nbsp;</td></tr></table></td><td style="padding-right: 20px; padding-left: 20px; padding-top:20px; padding-bottom:20px;"><![endif]-->
+								<div class="col num12" style="min-width: 320px; max-width: 620px; display: table-cell; vertical-align: top; width: 600px;">
+									<div style="width:100% !important;">
+										<!--[if (!mso)&(!IE)]><!-->
+										<div style="border-top:0px solid transparent; border-left:10px solid #f2f3ef; border-bottom:0px solid transparent; border-right:10px solid #f2f3ef; padding-top:20px; padding-bottom:20px; padding-right: 20px; padding-left: 20px;">
+											<!--<![endif]-->
+											<div class="img-container center fixedwidth" align="center" style="padding-right: 0px;padding-left: 0px;">
+												<!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr style="line-height:0px"><td style="padding-right: 0px;padding-left: 0px;" align="center"><![endif]--><img class="center fixedwidth" align="center" border="0" src="https://sailthru-media.s3.amazonaws.com/composer/images/sailthru-prod-6ho/fiercely-independent_b.png" alt="Fiercely Independent" title="Fiercely Independent" style="text-decoration: none; -ms-interpolation-mode: bicubic; border: 0; height: auto; width: 100%; max-width: 290px; display: block;" width="290">
+												<div style="font-size:1px;line-height:10px">&nbsp;</div>
+												<!--[if mso]></td></tr></table><![endif]-->
+											</div>
+											<!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 15px; padding-left: 15px; padding-top: 0px; padding-bottom: 5px; font-family: Georgia, 'Times New Roman', serif"><![endif]-->
+											<div style="color:#000;font-family:Georgia, Times, 'Times New Roman', serif;line-height:1.2;padding-top:0px;padding-right:15px;padding-bottom:5px;padding-left:15px;">
+												<div style="font-family: Georgia, Times, 'Times New Roman', serif; font-size: 12px; line-height: 1.2; color: #000; mso-line-height-alt: 14px;">
+													<p style="font-size: 16px; line-height: 1.2; text-align: center; word-break: break-word; font-family: Georgia, Times, Times New Roman, serif; mso-line-height-alt: 19px; margin: 0;"><span style="font-size: 16px;">Support from readers allows <em>Mother Jones</em> to do journalism that doesn't just follow the pack.</span></p>
+												</div>
+											</div>
+											<!--[if mso]></td></tr></table><![endif]-->
+											<div class="button-container" align="center" style="padding-top:10px;padding-right:0px;padding-bottom:0px;padding-left:0px;">
+												<!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0" style="border-spacing: 0; border-collapse: collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;"><tr><td style="padding-top: 10px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px" align="center"><v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://secure.motherjones.com/flex/mj/key/7DONATE/src/7EGNM00/" style="height:31.5pt; width:101.25pt; v-text-anchor:middle;" arcsize="15%" stroke="false" fillcolor="#DB3700"><w:anchorlock/><v:textbox inset="0,0,0,0"><center style="color:#ffffff; font-family:Arial, sans-serif; font-size:16px"><![endif]--><a href="https://secure.motherjones.com/flex/mj/key/7DONATE/src/7EGNM00/" target="_blank" style="-webkit-text-size-adjust: none; text-decoration: none; display: inline-block; color: #ffffff; background-color: #DB3700; border-radius: 6px; -webkit-border-radius: 6px; -moz-border-radius: 6px; width: auto; width: auto; border-top: 1px solid #DB3700; border-right: 1px solid #DB3700; border-bottom: 1px solid #DB3700; border-left: 1px solid #DB3700; padding-top: 5px; padding-bottom: 5px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; text-align: center; mso-border-alt: none; word-break: keep-all;"><span style="padding-left:20px;padding-right:20px;font-size:16px;display:inline-block;"><span style="font-size: 16px; line-height: 2; word-break: break-word; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; mso-line-height-alt: 32px;"><strong>Donate</strong></span></span></a>
+												<!--[if mso]></center></v:textbox></v:roundrect></td></tr></table><![endif]-->
+											</div>
+											<!--[if (!mso)&(!IE)]><!-->
+										</div>
+										<!--<![endif]-->
+									</div>
+								</div>
+								<!--[if (mso)|(IE)]></td><td style='padding-top:20px;padding-bottom:20px' width='10' bgcolor='#f2f3ef'><table role='presentation' width='10' cellpadding='0' cellspacing='0' border='0'><tr><td>&nbsp;</td></tr></table></td></tr></table><![endif]-->
+								<!--[if (mso)|(IE)]></td></tr></table></td></tr></table><![endif]-->
+							</div>
+						</div>
+					</div>
+					<div style="background-color:transparent;">
+						<div class="block-grid " style="Margin: 0 auto; min-width: 320px; max-width: 620px; overflow-wrap: break-word; word-wrap: break-word; word-break: break-word; background-color: #f2f3ef;">
+							<div style="border-collapse: collapse;display: table;width: 100%;background-color:#f2f3ef;">
+								<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color:transparent;"><tr><td align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:620px"><tr class="layout-full-width" style="background-color:#f2f3ef"><![endif]-->
+								<!--[if (mso)|(IE)]><td align="center" width="620" style="background-color:#f2f3ef;width:620px; border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid transparent; border-right: 0px solid transparent;" valign="top"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 0px; padding-left: 0px; padding-top:10px; padding-bottom:10px;"><![endif]-->
+								<div class="col num12" style="min-width: 320px; max-width: 620px; display: table-cell; vertical-align: top; width: 620px;">
+									<div style="width:100% !important;">
+										<!--[if (!mso)&(!IE)]><!-->
+										<div style="border-top:0px solid transparent; border-left:0px solid transparent; border-bottom:0px solid transparent; border-right:0px solid transparent; padding-top:10px; padding-bottom:10px; padding-right: 0px; padding-left: 0px;">
+											<!--<![endif]-->
+											<table class="divider" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed; vertical-align: top; border-spacing: 0; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; min-width: 100%; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;" role="presentation" valign="top">
+												<tbody>
+													<tr style="vertical-align: top;" valign="top">
+														<td class="divider_inner" style="word-break: break-word; vertical-align: top; min-width: 100%; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px;" valign="top">
+															<table class="divider_content" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed; vertical-align: top; border-spacing: 0; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-top: 30px solid transparent; height: 0px; width: 100%;" align="center" role="presentation" height="0" valign="top">
+																<tbody>
+																	<tr style="vertical-align: top;" valign="top">
+																		<td style="word-break: break-word; vertical-align: top; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;" height="0" valign="top"><span></span></td>
+																	</tr>
+																</tbody>
+															</table>
+														</td>
+													</tr>
+												</tbody>
+											</table>
+											<!--[if (!mso)&(!IE)]><!-->
+										</div>
+										<!--<![endif]-->
+									</div>
+								</div>
+								<!--[if (mso)|(IE)]></td></tr></table><![endif]-->
+								<!--[if (mso)|(IE)]></td></tr></table></td></tr></table><![endif]-->
+							</div>
+						</div>
+					</div>
+					<div style="background-color:transparent;">
+						<div class="block-grid " style="Margin: 0 auto; min-width: 320px; max-width: 620px; overflow-wrap: break-word; word-wrap: break-word; word-break: break-word; background-color: #fff;">
+							<div style="border-collapse: collapse;display: table;width: 100%;background-color:#fff;">
+								<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color:transparent;"><tr><td align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:620px"><tr class="layout-full-width" style="background-color:#fff"><![endif]-->
+								<!--[if (mso)|(IE)]><td align="center" width="620" style="background-color:#fff;width:620px; border-top: 0px solid #F2F3EF; border-left: none; border-bottom: 0px solid #F2F3EF; border-right: none;" valign="top"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style='padding-top:20px;padding-bottom:20px' width='10' bgcolor='#f2f3ef'><table role='presentation' width='10' cellpadding='0' cellspacing='0' border='0'><tr><td>&nbsp;</td></tr></table></td><td style="padding-right: 20px; padding-left: 20px; padding-top:20px; padding-bottom:20px;"><![endif]-->
+								<div class="col num12" style="min-width: 320px; max-width: 620px; display: table-cell; vertical-align: top; width: 600px;">
+									<div style="width:100% !important;">
+										<!--[if (!mso)&(!IE)]><!-->
+										<div style="border-top:0px solid #F2F3EF; border-left:10px solid #f2f3ef; border-bottom:0px solid #F2F3EF; border-right:10px solid #f2f3ef; padding-top:20px; padding-bottom:20px; padding-right: 20px; padding-left: 20px;">
+											<!--<![endif]-->
+											<div class="img-container center fixedwidth" align="center" style="padding-right: 0px;padding-left: 0px;">
+												<!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr style="line-height:0px"><td style="padding-right: 0px;padding-left: 0px;" align="center"><![endif]--><img class="center fixedwidth" align="center" border="0" src="https://sailthru-media.s3.amazonaws.com/composer/images/sailthru-prod-6ho/label-recharge_c.png" alt="Recharge" title="Recharge" style="text-decoration: none; -ms-interpolation-mode: bicubic; border: 0; height: auto; width: 100%; max-width: 280px; display: block;" width="280">
+												<!--[if mso]></td></tr></table><![endif]-->
+											</div>
+											<!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 10px; padding-left: 10px; padding-top: 2px; padding-bottom: 20px; font-family: Arial, sans-serif"><![endif]-->
+											<div style="color:#555555;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;line-height:1.2;padding-top:2px;padding-right:10px;padding-bottom:20px;padding-left:10px;">
+												<div style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 12px; line-height: 1.2; color: #555555; mso-line-height-alt: 14px;">
+													<p style="font-size: 12px; line-height: 1.2; text-align: center; word-break: break-word; font-family: Helvetica Neue, Helvetica, Arial, sans-serif; mso-line-height-alt: 14px; margin: 0;"><span style="font-size: 12px;">SOME GOOD NEWS, FOR ONCE</span></p>
+												</div>
+											</div>
+											<!--[if mso]></td></tr></table><![endif]-->
+											<!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 15px; padding-left: 15px; padding-top: 0px; padding-bottom: 0px; font-family: Arial, sans-serif"><![endif]-->
+											<div style="color:#000;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;line-height:1.2;padding-top:0px;padding-right:15px;padding-bottom:0px;padding-left:15px;">
+												<div style="font-size: 12px; line-height: 1.2; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #000; mso-line-height-alt: 14px;">
+													<p style="font-size: 20px; line-height: 1.2; text-align: center; word-break: break-word; font-family: Helvetica Neue, Helvetica, Arial, sans-serif; mso-line-height-alt: 24px; margin: 0;"><span style="font-size: 20px;"><strong><a style="text-decoration: none; color: #000;" href="{Recharge.content[0].url}" target="_blank" rel="noopener">{Recharge.content[0].title}</a></strong></span></p>
+												</div>
+											</div>
+											<!--[if mso]></td></tr></table><![endif]-->
+											<div style="font-size:16px;text-align:center;font-family:Georgia, Times, Times New Roman, serif">{recharge_replace = replace(Recharge.content[0].vars.recharge_body, '<p>', '</p>
+												<p style="font-size: 16px; line-height: 1.5; mso-line-height-alt: 22px;">')}</p>
+											</div>
+											<!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 0px; padding-left: 0px; padding-top: 0px; padding-bottom: 0px; font-family: Georgia, 'Times New Roman', serif"><![endif]-->
+											<div style="color:#333;font-family:Georgia, Times, 'Times New Roman', serif;line-height:1.5;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;">
+												<div style="font-family: Georgia, Times, 'Times New Roman', serif; font-size: 12px; line-height: 1.5; color: #333; mso-line-height-alt: 18px;">
+													<p style="font-size: 16px; line-height: 1.5; word-break: break-word; font-family: Georgia, Times, Times New Roman, serif; mso-line-height-alt: 24px; margin: 0;"><span style="font-size: 16px;">{recharge_replace}</span></p>
+												</div>
+											</div>
+											<!--[if mso]></td></tr></table><![endif]-->
+											<!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 0px; padding-left: 0px; padding-top: 0px; padding-bottom: 0px; font-family: Georgia, 'Times New Roman', serif"><![endif]-->
+											<div style="color:#333;font-family:Georgia, Times, 'Times New Roman', serif;line-height:1.2;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;">
+												<div style="font-family: Georgia, Times, 'Times New Roman', serif; line-height: 1.2; font-size: 12px; color: #333; mso-line-height-alt: 14px;">
+													<p style="line-height: 1.2; font-size: 16px; word-break: break-word; font-family: Georgia, Times, Times New Roman, serif; mso-line-height-alt: 19px; margin: 0;"><span style="font-size: 16px;"><em><span style="font-size: 16px;"><strong><span style="font-size: 16px;">—{Recharge.content[0].author}</span></strong></span></em></span></p>
+												</div>
+											</div>
+											<!--[if mso]></td></tr></table><![endif]-->
+											<!--[if (!mso)&(!IE)]><!-->
+										</div>
+										<!--<![endif]-->
+									</div>
+								</div>
+								<!--[if (mso)|(IE)]></td><td style='padding-top:20px;padding-bottom:20px' width='10' bgcolor='#f2f3ef'><table role='presentation' width='10' cellpadding='0' cellspacing='0' border='0'><tr><td>&nbsp;</td></tr></table></td></tr></table><![endif]-->
+								<!--[if (mso)|(IE)]></td></tr></table></td></tr></table><![endif]-->
+							</div>
+						</div>
+					</div>
+					<div style="background-color:transparent;">
+						<div class="block-grid " style="Margin: 0 auto; min-width: 320px; max-width: 620px; overflow-wrap: break-word; word-wrap: break-word; word-break: break-word; background-color: #f2f3ef;">
+							<div style="border-collapse: collapse;display: table;width: 100%;background-color:#f2f3ef;">
+								<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color:transparent;"><tr><td align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:620px"><tr class="layout-full-width" style="background-color:#f2f3ef"><![endif]-->
+								<!--[if (mso)|(IE)]><td align="center" width="620" style="background-color:#f2f3ef;width:620px; border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid transparent; border-right: 0px solid transparent;" valign="top"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 0px; padding-left: 0px; padding-top:10px; padding-bottom:10px;"><![endif]-->
+								<div class="col num12" style="min-width: 320px; max-width: 620px; display: table-cell; vertical-align: top; width: 620px;">
+									<div style="width:100% !important;">
+										<!--[if (!mso)&(!IE)]><!-->
+										<div style="border-top:0px solid transparent; border-left:0px solid transparent; border-bottom:0px solid transparent; border-right:0px solid transparent; padding-top:10px; padding-bottom:10px; padding-right: 0px; padding-left: 0px;">
+											<!--<![endif]-->
+											<!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 10px; padding-left: 10px; padding-top: 10px; padding-bottom: 10px; font-family: Georgia, 'Times New Roman', serif"><![endif]-->
+											<div style="color:#333;font-family:Georgia, Times, 'Times New Roman', serif;line-height:1.2;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px;">
+												<div style="font-family: Georgia, Times, 'Times New Roman', serif; font-size: 12px; line-height: 1.2; color: #333; mso-line-height-alt: 14px;">
+													<p style="font-size: 14px; line-height: 1.2; text-align: center; word-break: break-word; font-family: Georgia, Times, Times New Roman, serif; mso-line-height-alt: 17px; margin: 0;"><span style="font-size: 14px;">Did you enjoy this newsletter? Help us out by <a style="text-decoration: underline; color: #333;" href="{forward_url}" target="_blank" rel="noopener">forwarding</a> it to a friend or sharing it on <a style="text-decoration: underline; color: #333;" href="{{public_share('fbshare')}}" target="_blank" rel="noopener">Facebook</a> and <a style="text-decoration: underline; color: #333;" href="{{public_share('twitter','Check out this newsletter from @motherjones!')}}" target="_blank" rel="noopener">Twitter</a>.</span></p>
+												</div>
+											</div>
+											<!--[if mso]></td></tr></table><![endif]-->
+											<!--[if (!mso)&(!IE)]><!-->
+										</div>
+										<!--<![endif]-->
+									</div>
+								</div>
+								<!--[if (mso)|(IE)]></td></tr></table><![endif]-->
+								<!--[if (mso)|(IE)]></td></tr></table></td></tr></table><![endif]-->
+							</div>
+						</div>
+					</div>
+					<div style="background-color:#000;">
+						<div class="block-grid " style="Margin: 0 auto; min-width: 320px; max-width: 620px; overflow-wrap: break-word; word-wrap: break-word; word-break: break-word; background-color: #000;">
+							<div style="border-collapse: collapse;display: table;width: 100%;background-color:#000;">
+								<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color:#000;"><tr><td align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:620px"><tr class="layout-full-width" style="background-color:#000"><![endif]-->
+								<!--[if (mso)|(IE)]><td align="center" width="620" style="background-color:#000;width:620px; border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid transparent; border-right: 0px solid transparent;" valign="top"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 0px; padding-left: 0px; padding-top:25px; padding-bottom:25px;"><![endif]-->
+								<div class="col num12" style="min-width: 320px; max-width: 620px; display: table-cell; vertical-align: top; width: 620px;">
+									<div style="width:100% !important;">
+										<!--[if (!mso)&(!IE)]><!-->
+										<div style="border-top:0px solid transparent; border-left:0px solid transparent; border-bottom:0px solid transparent; border-right:0px solid transparent; padding-top:25px; padding-bottom:25px; padding-right: 0px; padding-left: 0px;">
+											<!--<![endif]-->
+											<!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 0px; padding-left: 0px; padding-top: 0px; padding-bottom: 0px; font-family: Georgia, serif"><![endif]-->
+											<div style="color:#fff;font-family:Georgia, Times, Times New Roman, serif;line-height:1.2;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;">
+												<div style="font-family: Georgia, Times, Times New Roman, serif; font-size: 12px; line-height: 1.2; color: #fff; mso-line-height-alt: 14px;">
+													<p style="font-size: 12px; line-height: 1.2; text-align: center; word-break: break-word; font-family: Georgia, Times, Times New Roman, serif; mso-line-height-alt: 14px; margin: 0;">{include "Standard Footer"}</p>
+												</div>
+											</div>
+											<!--[if mso]></td></tr></table><![endif]-->
+											<!--[if (!mso)&(!IE)]><!-->
+										</div>
+										<!--<![endif]-->
+									</div>
+								</div>
+								<!--[if (mso)|(IE)]></td></tr></table><![endif]-->
+								<!--[if (mso)|(IE)]></td></tr></table></td></tr></table><![endif]-->
+							</div>
+						</div>
+					</div>
+					<!--[if (mso)|(IE)]></td></tr></table><![endif]-->
+				</td>
+			</tr>
+		</tbody>
+	</table>
+	<!--[if (IE)]></div><![endif]-->
+</body>
+
+</html>
